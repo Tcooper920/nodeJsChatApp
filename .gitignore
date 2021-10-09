@@ -1,6 +1,6 @@
 # ignore mac system files
 .DS_store
 
-/_notes
+_notes/
 
-/node_modules
+node_modules/
